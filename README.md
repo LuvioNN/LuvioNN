@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuvioNN
 - 👀 I’m interested in OOP/WEB
-- 🌱 I’m currently learning CSS/HTML/JS
+- 🌱 I’m currently learning TS/RTK
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me Luvi
 - 😄 Pronouns: he
